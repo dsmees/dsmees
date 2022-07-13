@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Daniel Smees
 - 👀 I’m interested in ... Electronics Embedded Systems
 - 🌱 I’m currently learning ... Electronic Embedded System Design and Manufacturing 
-- 📫 How to reach me ... LinedIn - Daniel Smees
+- 📫 How to reach me ... LinkedIn - Daniel Smees
 
 <!---
 dsmees/dsmees is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
