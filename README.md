@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @dsmees
-- 👀 I’m interested in ... embedded systems
+- 👋 Hi, I’m Daniel Smees
+- 👀 I’m interested in ... Electronics Embedded Systems
 - 🌱 I’m currently learning ... Electronic Embedded System Design and Manufacturing 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... LinedIn - Daniel Smees
 
 <!---
